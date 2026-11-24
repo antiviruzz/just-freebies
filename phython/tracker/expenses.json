@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 2800.0,
+        "category": "Food",
+        "description": "Dinner"
+    },
+    {
+        "amount": 1000.0,
+        "category": "Food",
+        "description": "Lunch"
+    },
+    {
+        "amount": 2000.0,
+        "category": "Cloth",
+        "description": "Shoe"
+    },
+    {
+        "amount": 2000.0,
+        "category": "Cloth",
+        "description": "Bag"
+    },
+    {
+        "amount": 345.0,
+        "category": "Data",
+        "description": "Ttd"
+    },
+    {
+        "amount": 444.0,
+        "category": "Data",
+        "description": "Bt"
+    }
+]
